@@ -1527,5 +1527,104 @@
     "album": "SUPERVILLAIN - Disco 2",
     "numero_de_pista": "18/18",
     "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274522_1.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Big Mistake",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "1/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_2.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "They Don't Make 'Em Like They Used To",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "2/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_3.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Glory of Love",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "3/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_4.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Queen of the Masquerade Ball",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "4/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_5.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Daddy's Girl",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "5/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_6.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "The Next Time I Fall (with Amy Grant)",
+    "artista": "Peter Cetera feat. Amy Grant",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "6/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_7.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Wake up to Love",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "7/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_8.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Solitude / Solitaire",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "8/9",
+    "Año": "1986"
+  },
+  {
+    "archivo_musica": "Albums/198274522_9.flac",
+    "descripcion": "198274522",
+    "imagen": "Albums/198274522.jpg",
+    "genero": "Pop",
+    "titulo": "Only Love Knows Why",
+    "artista": "Peter Cetera",
+    "album": "Solitude / Solitaire",
+    "numero_de_pista": "9/9",
+    "Año": "1986"
   }
 ]
